@@ -52,9 +52,10 @@ sections:
             style: secondary
       - title: Recall and act on your achievements
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Get a scheduled summary of all your accomplishments for a defined
+          period (previous 6 months, previous year, etc.) along with tips for
+          how to use your info. For example, use your accomplishments to ask for
+          a raise during an annual review.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
