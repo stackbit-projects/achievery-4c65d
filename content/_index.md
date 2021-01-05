@@ -27,9 +27,11 @@ sections:
     features:
       - title: Feature 1
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          When it comes time to assess your progress - an annual review at work,
+          reviewing your yearly resolutions - it can be hard to recall what
+          you've actually done. You might only be able to think of a couple big
+          accomplishments, but chances are you've done a lot more than you
+          remember. Achievery can help you record and recall what you've done.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
