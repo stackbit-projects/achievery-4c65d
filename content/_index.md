@@ -25,7 +25,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
+      - title: What have I done
         content: >-
           When it comes time to assess your progress - an annual review at work,
           reviewing your yearly resolutions - it can be hard to recall what
