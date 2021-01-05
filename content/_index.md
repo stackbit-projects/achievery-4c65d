@@ -39,9 +39,9 @@ sections:
         actions: []
       - title: Record your accomplishments
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Achievery will prompt you at regular intervals that you define (daily,
+          weekly, etc.) asking you "What have you achieved?" Take it as an
+          opportunity to keep track of accomplishments, both big and small.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
