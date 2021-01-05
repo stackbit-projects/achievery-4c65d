@@ -68,7 +68,7 @@ sections:
     title: Use your achievements!
     subtitle: Get started with Achievery and remember how awesome you are!
     actions:
-      - label: Learn More
+      - label: Sign up
         url: /features
         style: primary
     has_background: true
