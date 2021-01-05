@@ -66,7 +66,7 @@ sections:
             style: secondary
   - type: cta_section
     title: Use your achievements!
-    subtitle: Get started with Achievery and
+    subtitle: Get started with Achievery and remember how awesome you are!
     actions:
       - label: Learn More
         url: /features
