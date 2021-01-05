@@ -66,9 +66,7 @@ sections:
             style: secondary
   - type: cta_section
     title: Use your achievements!
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Get started with Achievery and
     actions:
       - label: Learn More
         url: /features
